@@ -1,0 +1,10 @@
+asgiref
+crispy-tailwind
+Django
+django-crispy-forms
+django-environ
+django-filter
+djangorestframework
+pillow
+sqlparse
+tzdata
